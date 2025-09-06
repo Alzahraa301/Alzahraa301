@@ -4,7 +4,7 @@ Hi there 👋, I'm Alzahraa Osama
 
 💡 Interested in building assistive technologies for healthcare and environmental sustainability.
 
-🔭 Currently working on projects in AI-powered robotics and air pollution solutions.
+🔭 Currently working on projects in AI-powered robotics.
 
 📫 Reach me at: LinkedIn https://www.linkedin.com/in/alzahraa-osama-6b0017315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
 
