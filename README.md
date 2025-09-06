@@ -1,4 +1,4 @@
-Hi there 👋, I'm Alzahraa Osama
+Hi there 👋, I'm Alzahraa noor eldin
 
 🎓 High school senior from Egypt passionate about Artificial Intelligence, Mechatronics, and Robotics.
 
